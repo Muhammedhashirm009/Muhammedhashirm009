@@ -78,9 +78,9 @@ Docker • Linux • Cloudflare • Git • Nginx
 
 ## 📫 Connect
 
-- 💼 LinkedIn: **your-link**
-- 🌐 Portfolio: **your-website**
-- 📧 Email: **your-email**
+- 💼 LinkedIn: **[HI](https://in.linkedin.com/in/muhammed-hashir-m-598114309)**
+- 🌐 Portfolio: **[About Me](https://hxdev.in)**
+- 📧 Email: **muhammedhashirm0@gmail.com**
 
 ---
 
